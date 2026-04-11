@@ -1,13 +1,20 @@
 
+## Oi, eu sou a Camila 👋
+Tenho experiência com automação de processos (RPA), documentação técnica e desenvolvimento.
+Atualmente busco oportunidades remotas nas áreas de RPA, suporte técnico ou desenvolvimento.
 
+💼 Experiência
+Automação com Blue Prism
+Documentação de processos
+Contato com cliente
+Suporte e melhoria de processos
 
-## Oi seguimores, eu sou a Camila! 👋
+🚀 Tecnologias
+(JavaScript, .NET, Blue Prism, C#, React, AWS)
 
-- 🔭 Eu estou migrando de Automação RPA para Fullstack ...
-- 🌱 Estou com as tecnologias JavaScript, C#, Java, Spring, Angular, React JS, Node JS, AWS, Docker e MySQL ...
-- 👯 Estou trabalhando em um portfólio para entrevistas ...
-- 🤔 Estou procurando ajuda com .NET MAUI ...
-- 💬 Pergunte-me sobre Blue Prism ...
+🎯 Objetivo
+Busco minha próxima oportunidade para crescer na área de tecnologia, com foco em automação e desenvolvimento.
+
 - 📫 Como me encontrar: camila.gabriela.xavier.santos@gmail.com ...
 - 😄 Pronouns: She/her ...
 - ⚡ Fun fact: Eu sou modelo e sei cantar! ...
