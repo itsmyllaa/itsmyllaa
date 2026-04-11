@@ -20,12 +20,6 @@ Busco minha próxima oportunidade para crescer na área de tecnologia, com foco 
 - ⚡ Fun fact: Eu sou modelo e sei cantar! ...
 
 <div>
-  <a href="https://github.com/itsmyllaa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsmyllaa&show_icons=true&theme=radical">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmyllaa&layout=compact&show_icons=true&theme=radical">
-</div>
-
-<div>
   <img aling="center" alt="its-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img aling="center" alt="its-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img aling="center" alt="its-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
